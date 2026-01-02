@@ -15,7 +15,8 @@ A minimalist, Dockerized personal portfolio site using Nginx (Alpine image) for 
 
 ⚡ Fast & lightweight (no frameworks)
 
-## Folder Structure
+##  📁 Folder Structure
+```
 my-portfolio/
 │── index.html
 │── style.css
@@ -38,7 +39,7 @@ my-portfolio/
 │    ├── gmail.svg
 │    ├── linux.svg
 │           
-
+```
 ## Dockerfile Overview
 
 - Uses `nginx:alpine` as the base image
